@@ -3,6 +3,9 @@
 ### 🚀 About Me
 Hi! I'm a passionate developer with a love for **technology**, **problem-solving**, and **creating elegant solutions**. Whether it's building dynamic web applications, exploring cutting-edge frameworks, or diving deep into system programming, I thrive on learning and delivering impactful results.
 
+
+P.S ChatGPT is great for this ^^
+
 ---
 
 <div align="center">
